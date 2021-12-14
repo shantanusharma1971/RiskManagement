@@ -1,0 +1,4 @@
+ID;createdAt;createdBy;modifiedAt;modifiedBy;title;owner;prio;descr;miti_id;impact;
+20466922-7d57-4e76-b14c-e53fd97dcb11;2019-10-24;STSTEM;;;CFR Non-cmpliance;Fred Fish;3;Recent resctructuring might violate CFR code 71;204669221-7d57-4e76-b14c-e53fd97dcb11;10000
+20466922-7d57-4e76-b14c-e53fd97dcb12;2019-10-24;STSTEM;;;SLA not met;George Wang;4;SLA hasn't been met code 45;204669221-7d57-4e76-b14c-e53fd97dcb12;90000
+20466922-7d57-4e76-b14c-e53fd97dcb13;2019-10-24;STSTEM;;;Export control violation;Herbert Hunter;2;Recent shipment has violated export control  code 66;204669221-7d57-4e76-b14c-e53fd97dcb13;200000
